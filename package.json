@@ -1,0 +1,19 @@
+{
+  "name": "refund",
+  "version": "1.0.0",
+  "description": "API de solicitação de reembolso",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Lucas Garcia",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
