@@ -26,7 +26,6 @@ function ensureAuthenticated(request: Request, response: Response, next: NextFun
         }
 
         return next();
-
     } catch (error) {
         throw new AppError("Token inválido", 401);
     }
