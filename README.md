@@ -1,6 +1,6 @@
 ### Refund API
 
-Projeto desenvolvido durante as aulas do **Curso Full Stack da [Rocketseat](https://www.rocketseat.com.br/)**.
+Projeto desenvolvido durante as aulas de **Node.js com Containers** do **Curso Full Stack da [Rocketseat](https://www.rocketseat.com.br/)**.
 
 Criamos uma **API para um sistema de reembolso**, com foco em aprendizado de boas práticas no desenvolvimento backend. O projeto inclui funcionalidades como:
 
